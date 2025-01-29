@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "age": 28,
+    "occupation": "Software Engineer",
+    "city": "New York"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "age": 35,
+    "occupation": "Data Scientist",
+    "city": "San Francisco"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Davis",
+    "age": 40,
+    "occupation": "Marketing Manager",
+    "city": "Chicago"
+  },
+  {
+    "id": 4,
+    "name": "Diana Roberts",
+    "age": 25,
+    "occupation": "Graphic Designer",
+    "city": "Los Angeles"
+  },
+  {
+    "id": 5,
+    "name": "Ethan Wilson",
+    "age": 30,
+    "occupation": "Financial Analyst",
+    "city": "Boston"
+  }
+]
